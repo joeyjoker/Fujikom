@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse:draw2d:3.2.100-v20070529">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/draw2d/3.2.100-v20070529/draw2d-3.2.100-v20070529.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/draw2d/3.2.100-v20070529/draw2d-3.2.100-v20070529-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/draw2d/3.2.100-v20070529/draw2d-3.2.100-v20070529-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
